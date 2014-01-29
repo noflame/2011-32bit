@@ -599,4 +599,6 @@
 37=15 87 EPoly_Weld`Editable Polygon Object 647394
 38=19 76 EPoly_Select_Loop`Editable Polygon Object 647394
 39=19 82 EPoly_Select_Ring`Editable Polygon Object 647394
+40=19 190 goToNextKey`Noflame Tools 647394
+41=19 188 goToPrevKey`Noflame Tools 647394
 0=3 86 Viewports 1261319018
